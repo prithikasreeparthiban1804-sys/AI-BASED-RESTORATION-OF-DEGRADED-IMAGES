@@ -1,0 +1,10 @@
+# Dataset
+dataset/
+
+# macOS metadata
+__MACOSX/
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
