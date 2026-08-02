@@ -21,7 +21,7 @@ criterion = nn.MSELoss()
 
 optimizer = optim.Adam(model.parameters(), lr=0.001)
 
-epochs = 5
+epochs = 20
 
 for epoch in range(epochs):
 
